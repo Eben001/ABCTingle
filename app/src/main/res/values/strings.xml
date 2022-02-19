@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ABCTingle</string>
+    <string name="action_about">About</string>
+    <string name="ok_dialog_message">Okay</string>
+    <string name="dialog_message">This app is created by Eben. \nJust for fun :)\n\nebenezergana@gmail.com</string>
+    <string name="dialog_title">About</string>
+
+</resources>
