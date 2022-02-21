@@ -24,4 +24,5 @@ Clicking on each alphabet tingles ABC sound
 
 
 ## Room for Improvement
-I have tried has much as possible to improve the performance of the app. I beleive it still needs more improvement. Feel free to contribute to the project
+- I have tried has much as possible to improve the performance of the app. I beleive it still needs more improvement. Feel free to contribute to the project
+- Adding animations to improve user experience  
